@@ -24,7 +24,7 @@ body.gold .header h2 a{
     filter: hue-rotate(0deg);
 }
 body.gold canvas {
-    filter: drop-shadow(2em 4em 0px #d8bd10) drop-shadow(-8em -14em 0px #d8bd10);
+    filter: drop-shadow(2em 4em 0px #c50606) drop-shadow(-8em -14em 0px #c50606);
 }
 body.gold .header .spotlight {
     filter: invert(1) brightness(4.7) opacity(0.5);
@@ -32,7 +32,7 @@ body.gold .header .spotlight {
 body.gold .mountains > div {
     box-shadow: 
     -1em -0.2em 0.4em -1.1em #c2ccff,
-    inset 0em 0em 0em 2px #d8a910,
+    inset 0em 0em 0em 2px #c50606,
     inset 0.2em 0.3em 0.2em -0.2em #c2ccff,
     inset 10.2em 10.3em 2em -10em #d4e6ff2f;
 }
@@ -102,7 +102,7 @@ body.gold .header > div.mid-spot:hover {
 }
 
 body.gold .header > div.mid-spot {
-    box-shadow: 0 0 1em 0 #d8bd10;
+    box-shadow: 0 0 1em 0 #c50606;
 }
 
 .header > :nth-child(2):hover ~ .spotlight {
