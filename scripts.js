@@ -1,7 +1,6 @@
 const canvas = document.getElementById('particleCanvas');
 const ctx = canvas.getContext('2d');
 
-// Initial canvas size
 canvas.width = window.innerWidth;
 canvas.height = window.innerHeight;
 

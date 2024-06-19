@@ -95,7 +95,7 @@ h2 a {
     transition: box-shadow 1s ease-in-out;
 }
 .header > div.mid-spot:hover {
-    box-shadow: -0.3em 0.1em 0.2em 0 #d8bd10;
+    box-shadow: -0.3em 0.1em 0.2em 0 #c50606;
 }
 body.gold .header > div.mid-spot:hover {
     box-shadow: -0.3em 0.1em 0.2em 0 #98c0ef;
