@@ -1,7 +1,14 @@
 
 @import url('https://fonts.cdnfonts.com/css/hubot-sans');
 *{ box-sizing: border-box; -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility; scroll-behavior: smooth;}
-html, body { height: 100%; }
+html, body { 
+    height: 100%;   
+    overflow: hidden;
+}
+
+html, body {
+    overflow: hidden;
+}
 
 html::-webkit-scrollbar { display: none; }
 html { -ms-overflow-style: none; scrollbar-width: none; }
